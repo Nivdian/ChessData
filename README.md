@@ -2,5 +2,3 @@ Welcome to ChessData, a program for fetching playtime from Chess.com (and hopefu
 
 I am a beginner in both chess and Python so the program is very scuffed so all tips and critiques are welcome!
 
-Made by [u/nivdian](reddit.com/u/nivdian).
-
