@@ -1,14 +1,7 @@
 # TODO: Handle spreadsheet creation a bit more smoothly(?)
 # TODO: Lichess support
 # TODO: Trendline
-# TODO: Small tickers for each bar-place.
-# TODO: Error handling if file cant be deleted. (if it's open)
-# TODO: Good greeting.
-# TODO: Either github or google drive or something else. Anything but GitHub seems bad though.
 # TODO: Win/loss ratio stuff.
-# TODO: Rename?
-# TODO: README-file.
-# TODO: Have progress bar for data collection instead.
 
 import sys
 import re
